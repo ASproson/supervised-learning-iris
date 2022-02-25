@@ -1,4 +1,3 @@
-from hashlib import new
 from sklearn import datasets
 from sklearn.neighbors import KNeighborsClassifier
 import pandas as pd
